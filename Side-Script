@@ -22,4 +22,4 @@ _G.Settings = {
     ["Low Rendering"] = true, -- Lower Rendering
     ["Low Quality Parts"] = true -- Lower quality parts
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tenaaaki/UltimateFPS-Booster/main/Side-Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tenaaaki/UltimateFPSBooster/main/MainFpsUnlocker"))()
